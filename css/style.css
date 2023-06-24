@@ -1,0 +1,29 @@
+@font-face {
+    font-family: a_font;
+    src: url('../font/CONSOLA.TTF') format('truetype');
+}
+body{
+    background-color:#E7E9EB ;
+}
+
+.a_w10{
+    width: 200px;
+}
+.a_w5{
+    width: 100px;
+}
+.a_h600{
+    min-height: 600px;
+}
+.a_consola{
+    font-family: "consolas",'Courier New', Courier, monospace;
+}
+#editableContent{
+    outline:none;
+   
+}
+.loader{
+    width:6rem;
+    height:6rem;
+    border-width: 0.4em;
+}
